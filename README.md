@@ -1,4 +1,4 @@
-# Sql-Codigo---Nicholas-Maria-Isabella-e-Ludymilla-28-25-22-41-
+# Sql-Codigo---Nicholas-Maria-Izabella-e-Ludymilla-28-25-22-41-
 
 #Código Estrutura
 
